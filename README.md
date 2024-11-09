@@ -1,6 +1,8 @@
 # Staff-Management
 This is an efficient and user-friendly staff management system designed for Dgrade-level staff. This system allows easy tracking of staff Details, making it simple to maintain records, generate reports, and ensure that attendance data is accurately recorded.
 This is a project where we can maintain Dgradestaff Deatils/workers details.
+Administator can add staff,view staff and delete staff.
+This project so far contains only Admin module.
 
 ## Features
 **Staff Details Tracking :** Easily track Records of Dgrade-level staff on a daily or monthly basis.
@@ -12,12 +14,12 @@ This is a project where we can maintain Dgradestaff Deatils/workers details.
 ## Getting Started
 
 To run this project locally:
-1. Clone this repository: `git clone https://github.com/yourusername/ProPHPfolio.git`
+1. Clone this repository: `git clone https://github.com/ankithahv31/Staff-Management.git`
 2. Move the project to your XAMPP `htdocs` directory.
 3. Start Apache and MySQL in the XAMPP Control Panel.
-4. Access the project at `http://localhost/ProPHPfolio` in your browser.
+4. Access the project at `http://localhost/dgradestaff` in your browser.
 
-> **Note**: Create a database in phpMyAdmin if required and update the database credentials in the config file.
+> **Note**: Create a database in phpMyAdmin if required and update the database credentials in the config file.This code requires database named dgradestaff and two tables named admin and staff.
 ## Technologies Used
 - **PHP**: Backend language for dynamic data handling
 - **MySQL**: Database to store and retrieve resume information
