@@ -23,4 +23,8 @@ To run this project locally:
 - **MySQL**: Database to store and retrieve resume information
 - **HTML/CSS**: For creating a user-friendly interface
 - **XAMPP**: Local server environment
+  ## Credits
+This project was created as a staff management system and is designed to streamline the process of managing Dgrade-level staff members.
+This is just a miniproject done for my semester project submission.
+
 
