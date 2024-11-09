@@ -4,6 +4,8 @@ This is a project where we can maintain Dgradestaff Deatils/workers details.
 
 ## Features
 **Staff Details Tracking :** Easily track Records of Dgrade-level staff on a daily or monthly basis.
+
 **Admin Dashboard:** Provides an interface for administrators to manage staff Records and view reports.
+
 **Secure Login System:** administrators have secure access to the system based on their roles.
 
