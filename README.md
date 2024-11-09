@@ -1,4 +1,4 @@
-# staff-Management
+# Staff-Management
 This is an efficient and user-friendly staff management system designed for Dgrade-level staff. This system allows easy tracking of staff Details, making it simple to maintain records, generate reports, and ensure that attendance data is accurately recorded.
 This is a project where we can maintain Dgradestaff Deatils/workers details.
 
